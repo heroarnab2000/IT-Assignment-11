@@ -5,4 +5,4 @@ Roll : 17
 
 CSE 2nd Year
 
-This directory includes a .pynb file, a folder containings sets of .py files and screenshots of the output
+This directory includes a .ipynb file, a folder containings sets of .py files and screenshots of the output
